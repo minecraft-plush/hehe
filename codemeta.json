@@ -1,0 +1,35 @@
+{
+  "name": "hehe",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "author": [
+    {
+      "affiliation": {
+        "name": "FAIR Data Innovations Hub",
+        "type": "Organization"
+      },
+      "email": "wheresdorian@gmail.com",
+      "familyName": "Portillo",
+      "id": "_:author_1",
+      "givenName": "Dorian",
+      "type": "Person"
+    }
+  ],
+  "codeRepository": "https://github.com/minecraft-plush/hehe",
+  "dateCreated": "2024-08-06",
+  "description": "dfasdf",
+  "issueTracker": "https://github.com/minecraft-plush/hehe/issues",
+  "keywords": [
+    "eeee",
+    ""
+  ],
+  "license": "https://spdx.org/licenses/AFL-3.0",
+  "operatingSystem": [],
+  "programmingLanguage": [
+    "Common Workflow Language",
+    "JavaScript"
+  ],
+  "relatedLink": [],
+  "runtimePlatform": [],
+  "softwareRequirements": [],
+  "type": "SoftwareSourceCode"
+}
